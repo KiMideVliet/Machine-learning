@@ -1,0 +1,120 @@
+{
+    "activityId": 5600440680,
+    "activityUUID": {
+        "uuid": "afb11b32-aca8-4729-9837-00f451d94d5b"
+    },
+    "activityName": "Bad Lauterberg im Harz Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 876691,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2020-09-27T19:16:00.0",
+        "uploadedDate": "2020-09-27T19:16:00.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 6,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 876691
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "personalRecord": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "trimmed": false,
+        "gcj02": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2020-08-05T17:19:00.0",
+        "startTimeGMT": "2020-08-05T15:19:00.0",
+        "startLatitude": 51.61880009807646,
+        "startLongitude": 10.48770060762763,
+        "distance": 5528.33,
+        "duration": 2053.371,
+        "movingDuration": 2052.108,
+        "elapsedDuration": 2114.896,
+        "elevationGain": 80.0,
+        "elevationLoss": 67.0,
+        "maxElevation": 380.2,
+        "minElevation": 317.0,
+        "averageSpeed": 2.691999912261963,
+        "averageMovingSpeed": 2.693976181332092,
+        "maxSpeed": 3.38700008392334,
+        "calories": 466.0,
+        "averageHR": 157.0,
+        "maxHR": 174.0,
+        "averageRunCadence": 158.25,
+        "maxRunCadence": 167.0,
+        "strideLength": 102.14014660465615,
+        "endLatitude": 51.62058309651911,
+        "endLongitude": 10.47651780769229,
+        "maxVerticalSpeed": 0.600006103515625,
+        "minActivityLapDuration": 205.446,
+        "steps": 5428
+    },
+    "locationName": "Bad Lauterberg im Harz"
+}

@@ -1,0 +1,120 @@
+{
+    "activityId": 7111058634,
+    "activityUUID": {
+        "uuid": "fc53f049-b9b6-4e84-9f81-14d81528cf4f"
+    },
+    "activityName": "Heeze-Leende Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 884525,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2021-07-12T06:12:30.0",
+        "uploadedDate": "2021-07-12T06:12:30.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 12,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 884525
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "personalRecord": false,
+        "gcj02": false,
+        "runPowerWindDataEnabled": null,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "trimmed": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2021-07-04T10:59:48.0",
+        "startTimeGMT": "2021-07-04T08:59:48.0",
+        "startLatitude": 51.389796528965235,
+        "startLongitude": 5.550435595214367,
+        "distance": 11715.81,
+        "duration": 4765.368,
+        "movingDuration": 4747.057,
+        "elapsedDuration": 4765.368,
+        "elevationGain": 17.0,
+        "elevationLoss": 32.0,
+        "maxElevation": 65.2,
+        "minElevation": -99.6,
+        "averageSpeed": 2.4590001106262207,
+        "averageMovingSpeed": 2.4680153441979686,
+        "maxSpeed": 3.181999921798706,
+        "calories": 988.0,
+        "averageHR": 160.0,
+        "maxHR": 177.0,
+        "averageRunCadence": 153.984375,
+        "maxRunCadence": 168.0,
+        "strideLength": 95.30811896257151,
+        "endLatitude": 51.38929679989815,
+        "endLongitude": 5.557602709159255,
+        "maxVerticalSpeed": 0.40000152587890625,
+        "minActivityLapDuration": 223.011,
+        "steps": 12234
+    },
+    "locationName": "Heeze-Leende"
+}

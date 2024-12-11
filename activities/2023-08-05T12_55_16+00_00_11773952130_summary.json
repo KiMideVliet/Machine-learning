@@ -1,0 +1,120 @@
+{
+    "activityId": 11773952130,
+    "activityUUID": {
+        "uuid": "ca9996fe-8ded-488d-bd2a-5924069eb2aa"
+    },
+    "activityName": "Saint-Hilaire-de-Lusignan Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 885703,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2023-08-12T18:30:04.0",
+        "uploadedDate": "2023-08-12T18:30:04.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 2,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 885703
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "personalRecord": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "gcj02": false,
+        "trimmed": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2023-08-05T14:55:16.0",
+        "startTimeGMT": "2023-08-05T12:55:16.0",
+        "startLatitude": 44.255422465503216,
+        "startLongitude": 0.5521786585450172,
+        "distance": 1841.7,
+        "duration": 651.845,
+        "movingDuration": 651.668,
+        "elapsedDuration": 651.845,
+        "elevationGain": 30.0,
+        "elevationLoss": 71.0,
+        "maxElevation": 106.0,
+        "minElevation": 47.0,
+        "averageSpeed": 2.825000047683716,
+        "averageMovingSpeed": 2.8261322532973785,
+        "maxSpeed": 3.134999990463257,
+        "calories": 142.0,
+        "averageHR": 167.0,
+        "maxHR": 178.0,
+        "averageRunCadence": 157.1875,
+        "maxRunCadence": 166.0,
+        "strideLength": 107.79307792711101,
+        "endLatitude": 44.25006232224405,
+        "endLongitude": 0.5480815004557371,
+        "maxVerticalSpeed": 5.900001525878906,
+        "minActivityLapDuration": 282.177,
+        "steps": 1706
+    },
+    "locationName": "Saint-Hilaire-de-Lusignan"
+}

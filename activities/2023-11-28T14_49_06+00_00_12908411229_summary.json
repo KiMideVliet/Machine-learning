@@ -1,0 +1,120 @@
+{
+    "activityId": 12908411229,
+    "activityUUID": {
+        "uuid": "98fbd1b4-1742-4cf1-8c47-022ef4222018"
+    },
+    "activityName": "Waalre Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 885703,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2023-11-28T17:50:16.0",
+        "uploadedDate": "2023-11-28T17:50:16.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 12,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 885703
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "personalRecord": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "trimmed": false,
+        "gcj02": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2023-11-28T15:49:06.0",
+        "startTimeGMT": "2023-11-28T14:49:06.0",
+        "startLatitude": 51.394320745021105,
+        "startLongitude": 5.495847277343273,
+        "distance": 11201.44,
+        "duration": 3566.035,
+        "movingDuration": 3563.239,
+        "elapsedDuration": 3566.035,
+        "elevationGain": 15.0,
+        "elevationLoss": 67.0,
+        "maxElevation": 44.0,
+        "minElevation": -26.4,
+        "averageSpeed": 3.1410000324249268,
+        "averageMovingSpeed": 3.1436118382081415,
+        "maxSpeed": 3.7139999866485596,
+        "calories": 830.0,
+        "averageHR": 172.0,
+        "maxHR": 187.0,
+        "averageRunCadence": 160.0625,
+        "maxRunCadence": 178.0,
+        "strideLength": 117.73795664916827,
+        "endLatitude": 51.39219484291971,
+        "endLongitude": 5.5065549071878195,
+        "maxVerticalSpeed": 10.4,
+        "minActivityLapDuration": 57.41,
+        "steps": 9486
+    },
+    "locationName": "Waalre"
+}

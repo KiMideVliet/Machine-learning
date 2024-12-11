@@ -1,0 +1,120 @@
+{
+    "activityId": 7941114851,
+    "activityUUID": {
+        "uuid": "b8498267-c29e-48de-ab1a-3f38f0411788"
+    },
+    "activityName": "Valkenswaard Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 875962,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2021-12-10T16:09:11.0",
+        "uploadedDate": "2021-12-10T16:09:11.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 875962
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "personalRecord": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "trimmed": false,
+        "gcj02": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2021-12-10T17:05:54.0",
+        "startTimeGMT": "2021-12-10T16:05:54.0",
+        "startLatitude": 51.357567608356476,
+        "startLongitude": 5.4715455416589975,
+        "distance": 567.68,
+        "duration": 178.13,
+        "movingDuration": 178.0,
+        "elapsedDuration": 178.13,
+        "elevationGain": 0.0,
+        "elevationLoss": 0.0,
+        "maxElevation": 3.0,
+        "minElevation": 1.4,
+        "averageSpeed": 3.1870000362396245,
+        "averageMovingSpeed": 3.189213441998771,
+        "maxSpeed": 3.302999973297119,
+        "calories": 40.0,
+        "averageHR": 167.0,
+        "maxHR": 177.0,
+        "averageRunCadence": 162.484375,
+        "maxRunCadence": 167.0,
+        "strideLength": 117.68094699591558,
+        "endLatitude": 51.3525118958205,
+        "endLongitude": 5.470867278054357,
+        "maxVerticalSpeed": 0.19999992847442627,
+        "minActivityLapDuration": 178.13,
+        "steps": 484
+    },
+    "locationName": "Valkenswaard"
+}

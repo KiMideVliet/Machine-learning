@@ -1,0 +1,120 @@
+{
+    "activityId": 7428125107,
+    "activityUUID": {
+        "uuid": "4136475c-5364-44d4-b2e5-19570bf02a9c"
+    },
+    "activityName": "Übach-Palenberg Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 888263,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2021-09-04T20:51:37.0",
+        "uploadedDate": "2021-09-04T20:51:37.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 3,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 888263
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "trimmed": false,
+        "gcj02": false,
+        "runPowerWindDataEnabled": null,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "personalRecord": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2021-08-21T08:20:43.0",
+        "startTimeGMT": "2021-08-21T06:20:43.0",
+        "startLatitude": 50.923360297456384,
+        "startLongitude": 6.084992475807667,
+        "distance": 2037.1,
+        "duration": 728.169,
+        "movingDuration": 727.396,
+        "elapsedDuration": 728.169,
+        "elevationGain": 0.0,
+        "elevationLoss": 15.0,
+        "maxElevation": 117.6,
+        "minElevation": 100.8,
+        "averageSpeed": 2.7980000972747803,
+        "averageMovingSpeed": 2.8005377389129515,
+        "maxSpeed": 3.181999921798706,
+        "calories": 157.0,
+        "averageHR": 152.0,
+        "maxHR": 161.0,
+        "averageRunCadence": 160.28125,
+        "maxRunCadence": 167.0,
+        "strideLength": 104.71126088322293,
+        "endLatitude": 50.92699167318642,
+        "endLongitude": 6.074618278071284,
+        "maxVerticalSpeed": 0.7999954223632812,
+        "minActivityLapDuration": 14.524,
+        "steps": 1948
+    },
+    "locationName": "Übach-Palenberg"
+}

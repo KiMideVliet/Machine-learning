@@ -1,0 +1,120 @@
+{
+    "activityId": 9403042284,
+    "activityUUID": {
+        "uuid": "b7283d29-b719-4e9c-aabd-c54c3ad7b819"
+    },
+    "activityName": "Chvalsiny Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 875962,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2022-08-14T15:49:19.0",
+        "uploadedDate": "2022-08-14T15:49:19.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 12,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 875962
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "personalRecord": false,
+        "trimmed": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "gcj02": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2022-08-14T16:28:10.0",
+        "startTimeGMT": "2022-08-14T14:28:10.0",
+        "startLatitude": 48.861387725919485,
+        "startLongitude": 14.215803500264883,
+        "distance": 11935.84,
+        "duration": 4766.474,
+        "movingDuration": 4761.794,
+        "elapsedDuration": 4766.474,
+        "elevationGain": 259.0,
+        "elevationLoss": 290.0,
+        "maxElevation": 746.2,
+        "minElevation": 554.4,
+        "averageSpeed": 2.5039999485015865,
+        "averageMovingSpeed": 2.506584650941256,
+        "maxSpeed": 3.23799991607666,
+        "calories": 1088.0,
+        "averageHR": 169.0,
+        "maxHR": 184.0,
+        "averageRunCadence": 154.75,
+        "maxRunCadence": 181.0,
+        "strideLength": 96.90168410172643,
+        "endLatitude": 48.87005511671305,
+        "endLongitude": 14.21314182691276,
+        "maxVerticalSpeed": 2.20001220703125,
+        "minActivityLapDuration": 345.295,
+        "steps": 12296
+    },
+    "locationName": "Chvalsiny"
+}

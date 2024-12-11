@@ -1,0 +1,193 @@
+{
+    "activityId": 6005143479,
+    "measurementCount": 5,
+    "metricsCount": 15,
+    "metricDescriptors": [
+        {
+            "metricsIndex": 0,
+            "key": "sumDistance",
+            "unit": {
+                "id": 1,
+                "key": "meter",
+                "factor": 100.0
+            }
+        },
+        {
+            "metricsIndex": 1,
+            "key": "directTimestamp",
+            "unit": {
+                "id": 120,
+                "key": "gmt",
+                "factor": 0.0
+            }
+        },
+        {
+            "metricsIndex": 2,
+            "key": "sumMovingDuration",
+            "unit": {
+                "id": 40,
+                "key": "second",
+                "factor": 1000.0
+            }
+        },
+        {
+            "metricsIndex": 3,
+            "key": "sumDuration",
+            "unit": {
+                "id": 40,
+                "key": "second",
+                "factor": 1000.0
+            }
+        },
+        {
+            "metricsIndex": 4,
+            "key": "sumElapsedDuration",
+            "unit": {
+                "id": 40,
+                "key": "second",
+                "factor": 1000.0
+            }
+        }
+    ],
+    "activityDetailMetrics": [
+        {
+            "metrics": [
+                0.0,
+                1608801156000.0,
+                0.0,
+                0.0,
+                0.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608801157000.0,
+                0.0,
+                1.0,
+                1.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608801159000.0,
+                0.0,
+                3.0,
+                3.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608801170000.0,
+                0.0,
+                14.0,
+                14.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608801179000.0,
+                0.0,
+                23.0,
+                23.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802135000.0,
+                0.0,
+                979.0,
+                979.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802144000.0,
+                0.0,
+                988.0,
+                988.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802146000.0,
+                0.0,
+                990.0,
+                990.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802148000.0,
+                0.0,
+                992.0,
+                992.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802156000.0,
+                0.0,
+                1000.0,
+                1000.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802157000.0,
+                0.0,
+                1001.0,
+                1001.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802158000.0,
+                0.0,
+                1002.0,
+                1002.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802164000.0,
+                0.0,
+                1008.0,
+                1008.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802181000.0,
+                0.0,
+                1025.0,
+                1025.0
+            ]
+        },
+        {
+            "metrics": [
+                0.0,
+                1608802184000.0,
+                0.0,
+                1028.0,
+                1028.0
+            ]
+        }
+    ],
+    "geoPolylineDTO": null,
+    "heartRateDTOs": null,
+    "pendingData": null,
+    "detailsAvailable": true
+}

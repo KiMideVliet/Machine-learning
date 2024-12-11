@@ -1,0 +1,120 @@
+{
+    "activityId": 12110270915,
+    "activityUUID": {
+        "uuid": "8cb9966c-7a43-47e9-9ea3-4cd95bc690b9"
+    },
+    "activityName": "Eindhoven Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 885703,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2023-09-26T14:16:05.0",
+        "uploadedDate": "2023-09-26T14:16:04.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 7,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 885703
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "personalRecord": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "trimmed": false,
+        "gcj02": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2023-09-20T16:50:34.0",
+        "startTimeGMT": "2023-09-20T14:50:34.0",
+        "startLatitude": 51.44244024530053,
+        "startLongitude": 5.468008546158671,
+        "distance": 6419.76,
+        "duration": 2085.893,
+        "movingDuration": 2079.734,
+        "elapsedDuration": 2098.893,
+        "elevationGain": 2.0,
+        "elevationLoss": 6.0,
+        "maxElevation": 15.2,
+        "minElevation": 9.6,
+        "averageSpeed": 3.078000068664551,
+        "averageMovingSpeed": 3.086817730342374,
+        "maxSpeed": 4.208000183105469,
+        "calories": 470.0,
+        "averageHR": 168.0,
+        "maxHR": 175.0,
+        "averageRunCadence": 159.375,
+        "maxRunCadence": 167.0,
+        "strideLength": 115.86051045941377,
+        "endLatitude": 51.43879210576415,
+        "endLongitude": 5.480603948235512,
+        "maxVerticalSpeed": 0.20000076293945312,
+        "minActivityLapDuration": 131.942,
+        "steps": 5528
+    },
+    "locationName": "Eindhoven"
+}

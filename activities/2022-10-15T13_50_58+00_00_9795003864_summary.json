@@ -1,0 +1,120 @@
+{
+    "activityId": 9795003864,
+    "activityUUID": {
+        "uuid": "38874943-e0f8-4a3a-a7b8-d375bacf0062"
+    },
+    "activityName": "Waalre Hardlopen",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 1,
+        "typeKey": "running",
+        "parentTypeId": 17,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": true
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 875962,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2022-10-15T14:18:15.0",
+        "uploadedDate": "2022-10-15T14:18:15.0",
+        "videoUrl": null,
+        "hasPolyline": true,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": [],
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 5,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3313577673",
+            "deviceTypePk": 34696,
+            "deviceVersionPk": 875962
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "gcj02": false,
+        "trimmed": false,
+        "personalRecord": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2022-10-15T15:50:58.0",
+        "startTimeGMT": "2022-10-15T13:50:58.0",
+        "startLatitude": 51.39235703274608,
+        "startLongitude": 5.499197691679001,
+        "distance": 4253.28,
+        "duration": 1458.51,
+        "movingDuration": 1455.648,
+        "elapsedDuration": 1458.51,
+        "elevationGain": 9.0,
+        "elevationLoss": 49.0,
+        "maxElevation": 21.2,
+        "minElevation": -36.4,
+        "averageSpeed": 2.9159998893737793,
+        "averageMovingSpeed": 2.921915050740352,
+        "maxSpeed": 3.2100000381469727,
+        "calories": 309.0,
+        "averageHR": 168.0,
+        "maxHR": 176.0,
+        "averageRunCadence": 159.34375,
+        "maxRunCadence": 163.0,
+        "strideLength": 109.80512862260221,
+        "endLatitude": 51.3938082754612,
+        "endLongitude": 5.511144250631332,
+        "maxVerticalSpeed": 14.40000057220459,
+        "minActivityLapDuration": 85.86,
+        "steps": 3862
+    },
+    "locationName": "Waalre"
+}

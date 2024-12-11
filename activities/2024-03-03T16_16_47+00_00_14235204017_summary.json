@@ -1,0 +1,117 @@
+{
+    "activityId": 14235204017,
+    "activityUUID": {
+        "uuid": "56850577-d481-4295-989e-e94e7fe50a16"
+    },
+    "activityName": "Kracht",
+    "userProfileId": 86292401,
+    "isMultiSportParent": false,
+    "activityTypeDTO": {
+        "typeId": 13,
+        "typeKey": "strength_training",
+        "parentTypeId": 29,
+        "isHidden": false,
+        "restricted": false,
+        "trimmable": false
+    },
+    "eventTypeDTO": {
+        "typeId": 9,
+        "typeKey": "uncategorized",
+        "sortOrder": 10
+    },
+    "accessControlRuleDTO": {
+        "typeId": 2,
+        "typeKey": "private"
+    },
+    "timeZoneUnitDTO": {
+        "unitId": 124,
+        "unitKey": "Europe/Paris",
+        "factor": 0.0,
+        "timeZone": "Europe/Paris"
+    },
+    "metadataDTO": {
+        "isOriginal": true,
+        "deviceApplicationInstallationId": 973328,
+        "agentApplicationInstallationId": null,
+        "agentString": null,
+        "fileFormat": {
+            "formatId": 7,
+            "formatKey": "fit"
+        },
+        "associatedCourseId": null,
+        "lastUpdateDate": "2024-03-03T16:17:57.0",
+        "uploadedDate": "2024-03-03T16:17:57.0",
+        "videoUrl": null,
+        "hasPolyline": false,
+        "hasChartData": true,
+        "hasHrTimeInZones": true,
+        "hasPowerTimeInZones": false,
+        "userInfoDto": {
+            "userProfilePk": 86292401,
+            "displayname": "54c11a96-ed89-4680-888b-09c638a9fdf1",
+            "fullname": "Kimi",
+            "profileImageUrlLarge": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prof.png",
+            "profileImageUrlMedium": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prfr.png",
+            "profileImageUrlSmall": "https://s3.amazonaws.com/garmin-connect-prod/profile_images/da64d115-92e4-4352-b00f-aec3177d2741-prth.png",
+            "userPro": false
+        },
+        "childIds": [],
+        "childActivityTypes": [],
+        "sensors": null,
+        "activityImages": [],
+        "manufacturer": "GARMIN",
+        "diveNumber": null,
+        "lapCount": 1,
+        "associatedWorkoutId": null,
+        "isAtpActivity": null,
+        "deviceMetaDataDTO": {
+            "deviceId": "3457190369",
+            "deviceTypePk": 36945,
+            "deviceVersionPk": 973328
+        },
+        "hasIntensityIntervals": false,
+        "hasSplits": false,
+        "eBikeMaxAssistModes": null,
+        "eBikeBatteryUsage": null,
+        "eBikeBatteryRemaining": null,
+        "eBikeAssistModeInfoDTOList": null,
+        "hasRunPowerWindData": null,
+        "calendarEventInfo": null,
+        "groupRideUUID": null,
+        "hasHeatMap": false,
+        "autoCalcCalories": false,
+        "favorite": false,
+        "manualActivity": false,
+        "runPowerWindDataEnabled": null,
+        "trimmed": false,
+        "personalRecord": false,
+        "gcj02": false,
+        "elevationCorrected": false
+    },
+    "summaryDTO": {
+        "startTimeLocal": "2024-03-03T17:16:47.0",
+        "startTimeGMT": "2024-03-03T16:16:47.0",
+        "distance": 0.0,
+        "duration": 57.882,
+        "movingDuration": 57.882,
+        "elapsedDuration": 57.882,
+        "averageSpeed": 0.0,
+        "averageMovingSpeed": 0.0,
+        "calories": 6.0,
+        "bmrCalories": 1.0,
+        "averageHR": 100.0,
+        "maxHR": 118.0,
+        "trainingEffect": 0.0,
+        "anaerobicTrainingEffect": 0.0,
+        "aerobicTrainingEffectMessage": "NO_AEROBIC_BENEFIT_18",
+        "anaerobicTrainingEffectMessage": "NO_ANAEROBIC_BENEFIT_0",
+        "totalExerciseReps": 30,
+        "activeSets": 1,
+        "waterEstimated": 10.0,
+        "trainingEffectLabel": "UNKNOWN",
+        "activityTrainingLoad": 0.5794830322265625,
+        "minActivityLapDuration": 57.882,
+        "steps": 60,
+        "differenceBodyBattery": -2
+    }
+}
